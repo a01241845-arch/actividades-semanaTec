@@ -1,2 +1,2 @@
 # actividades-semanaTec
-Actividades clase Omar
+Durante esta semana tec estuvimos trabajando con visual studio code y github donde estuvimos haciendo actividades de codigos en jupyter notebook, todo esto de gran utilidad puesto que aprendi como juntar branches y trabajar en un sistema nuevo, lo que espero que sea de utilidad en mi vida laboral. En Github tambien trabaje con distintas fotos y filtros y como activar la camara en el sistema, lo cual fue un poco complicado pero poco a poco le entendi al sistema.
